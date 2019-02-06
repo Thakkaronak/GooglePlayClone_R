@@ -18,7 +18,6 @@ This project has been done for the **Copy Layout Challenge** as a part of **Goog
 
 ###### Screenshot 4
 
-![screenshot_20180415-221427](https://user-images.githubusercontent.com/19844292/38781278-f3c5a31e-40ff-11e8-97d6-531d1bc076c7.png)
 
 ###### Screenshot 5
 
